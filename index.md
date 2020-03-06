@@ -5,7 +5,7 @@ title: Welcome to 10th NDN Hackathon
 
 
 ## Hackathon Postponed
-Due to the ongoing Coronavirus (COVID-19) outbreak, the 10th NDN Hackathon has been postponed. Tenatively, it has been rescheduled for May 15 - 17, 2020, still in Tucson, Arizona. The proposal submission deadline has also been extended relative to this tentative timeline. We will update this message if there are any further changes.
+Due to the ongoing Coronavirus (COVID-19) outbreak, the 10th NDN Hackathon has been postponed. Tentatively, it has been rescheduled for May 15 - 17, 2020, still in Tucson, Arizona. The proposal submission deadline has also been extended relative to this tentative timeline. We will update this message if there are any further changes.
 
 
 #### **Remote participation welcome!**
